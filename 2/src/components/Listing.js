@@ -35,3 +35,9 @@ Listing.propTypes = {
         })
     )
 };
+
+
+Listing.defaultProps = {
+    items: []
+};
+
